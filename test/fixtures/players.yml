@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  chips: 1
+  wins: 1
+  games_played: 1
+
+two:
+  name: MyString
+  chips: 1
+  wins: 1
+  games_played: 1
