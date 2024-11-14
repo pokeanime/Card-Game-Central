@@ -1,4 +1,7 @@
 Rails.application.routes.draw do
+  get 'players/index'
+  get 'players/new'
+  get 'players/create'
   get 'games/index'
   get 'games/new'
   get 'games/create'
